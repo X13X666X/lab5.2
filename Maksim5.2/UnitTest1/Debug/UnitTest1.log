@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+S:\КН 24-28Б\Maksim5.2\loxcpp.cpp(10,35): warning C4101: 'R': unreferenced local variable
+S:\КН 24-28Б\Maksim5.2\loxcpp.cpp(10,32): warning C4101: 'a': unreferenced local variable
+     Creating library S:\КН 24-28Б\Maksim5.2\Debug\UnitTest1.lib and object S:\КН 24-28Б\Maksim5.2\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> S:\КН 24-28Б\Maksim5.2\Debug\UnitTest1.dll
